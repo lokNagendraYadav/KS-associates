@@ -1,0 +1,6 @@
+{
+  "name": "KS Associates | Global Trade & Luxury Cosmetics Export",
+  "description": "Official international portal for KS Associates. Premier multilateral import-export trading house & manufacturer of export-grade luxury cosmetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+{
+  "client": {
+    "source": "dist",
+    "ignore": [
+      "catalyst.json",
+      ".env*",
+      "node_modules/**",
+      "src/**"
+    ]
+  },
+  "scripts": {
+    "preserve": "npm run build",
+    "predeploy": "npm run build"
+  }
+}
